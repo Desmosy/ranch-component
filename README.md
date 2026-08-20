@@ -2,7 +2,7 @@
 
 A collection of beautiful, high-quality, and interactive UI components built with React, Tailwind CSS, and Framer Motion. This repository serves as the open-source home for the components featured in my portfolio's "Ranch" playground.
 
-🔗 **Live Demo / Full Project:** [Check out the main portfolio repository](https://github.com/Desmosy/koshish-portfolio)
+🔗 **Live Demo / Full Project:** koshish.dev
 
 ---
 

@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+
+# Node modules / build
+node_modules/
+dist/
+# Ignore unreleased experiments
+components/apple-hello/
+components/gradient-fire/
+components/twisting-ribbon/
+components/kinetic-slabs/
+

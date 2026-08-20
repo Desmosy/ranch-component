@@ -1,6 +1,6 @@
 import { ArrowLeft, Github, Home } from "lucide-react";
 
-export const RANCH_GITHUB_URL = "https://github.com/Desmosy/ranch";
+export const RANCH_GITHUB_URL = "https://github.com/Desmosy/ranch-component";
 
 export default function RanchNavigation({ compact = false }: { compact?: boolean }) {
   const itemClass = compact
